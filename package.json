@@ -1,0 +1,22 @@
+{
+  "name": "js_sorts",
+  "version": "1.0.0",
+  "description": "js sort",
+  "main": "index.min.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/saqqdy/js_sorts.git"
+  },
+  "keywords": [
+    "js",
+    "sorts"
+  ],
+  "author": "saqqdy.com",
+  "license": "ISC"
+}
