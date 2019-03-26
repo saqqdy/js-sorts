@@ -1,5 +1,5 @@
 {
-  "name": "js_sorts",
+  "name": "js-sorts",
   "version": "1.0.0",
   "description": "js sort",
   "main": "index.min.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://gitee.com/saqqdy/js_sorts.git"
+    "url": "https://gitee.com/saqqdy/js-sorts.git"
   },
   "keywords": [
     "js",

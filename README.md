@@ -1,4 +1,4 @@
-# js_sorts
+# js-sorts
 
 ### 介绍
 
@@ -12,9 +12,9 @@
 
 ```
 # 安装
-1. npm install --save js_sorts
+1. npm install --save js-sorts
 # 引入
-2. import { bubbleSort, bucketSort } from 'js_sorts'
+2. import { bubbleSort, bucketSort } from 'js-sorts'
 # 使用
 3. bubbleSort(array)
 ```
